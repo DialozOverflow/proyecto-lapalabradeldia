@@ -1,0 +1,13 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>inicio</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-input label="Jugador" labelPlacement="stacked" [(ngModel)]="jugador"
+    placeholder="Digite Nombre Jugador"></ion-input>
+  <ion-button *ngFor="let item of opciones" expand="block" [disabled]="jugador.length < 3" [color]="item.color"
+    (click)="onSelectNivel(item.id)">{{item.name}}</ion-button>
+  <ion-button expand="block" (click)="mostrarRanking()">Ranking</ion-button>
+</ion-content>

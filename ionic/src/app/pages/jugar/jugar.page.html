@@ -1,0 +1,20 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>jugar</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="small">Nivel: {{nivel.name}}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content [fullscreen]="true">
+    <app-cronometro [t]="tiempo"></app-cronometro>
+    <app-fila *ngFor="let item of letras; index as i" [activar]="activar[i]" [mostrarcolor]="mostrarcolor[i]"
+      [palabra]="palabra" (corroborar)="comprobante($event)"></app-fila>
+    <ion-button expand="block" color="primary" (click)="fenviar()">Enviar</ion-button>
+    <ion-button expand="block" color="medium" (click)="volver()">Volver</ion-button>
+  </ion-content>
+</ion-content>

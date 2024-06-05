@@ -1,0 +1,45 @@
+:host {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 5px;
+	margin-bottom: 15px;
+}
+ion-input.custom {
+    --background: #ffffff;
+    --color: #000;
+    --placeholder-color: #ddd;
+    --placeholder-opacity: 0.8;
+    --padding-bottom: 0;
+    --padding-end: 0;
+    --padding-start: 0;
+    --padding-top: 0;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0;
+    font-size: xx-large;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+ion-input.verde {
+    --background: #0e830e;
+    --color: #ffffff;
+}
+
+ion-input.naranja {
+    --background: #c87303;
+    --color: #ffffff;
+}
+
+ion-input.gris {
+    --background: #767676;
+    --color: #ffffff;
+}
+
+ion-input.nada {
+    --background: #ffffff;
+    --color: #000;
+}

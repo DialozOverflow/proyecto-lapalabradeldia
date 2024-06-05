@@ -1,0 +1,10 @@
+
+<ion-input
+*ngFor="let item of palabra.split(''); index as i"
+class="custom"
+[readonly]="activar"
+[ngClass]="{'verde': css[i] === 'acierto', 'naranja': css[i] === 'casi', 'gris': css[i] === 'fallo', 'nada': css[i] === 'nada'}"
+[maxlength]="1"
+[(ngModel)]="letrasCeldas[i]"
+(ionInput)="testing(i)"
+></ion-input>

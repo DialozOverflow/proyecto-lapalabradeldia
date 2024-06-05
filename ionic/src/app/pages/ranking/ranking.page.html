@@ -1,0 +1,27 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>ranking</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-button expand="block" (click)="volver()">Volver</ion-button>
+  <div class="ranking">
+    <table>
+      <tr>
+        <th>Foto</th>
+        <th>nombre</th>
+        <th>palabra</th>
+        <th>tiempo</th>
+        <th>nivel</th>
+      </tr>
+      <tr *ngFor="let x of mejores; index as i">
+          <td>{{x.foto}}</td>
+          <td>{{x.nombre}}</td>
+          <td>{{x.palabra}}</td>
+          <td>{{x.tiempo}}</td>
+          <td>{{x.nivel}}</td>
+      </tr>
+    </table>
+  </div>
+</ion-content>
