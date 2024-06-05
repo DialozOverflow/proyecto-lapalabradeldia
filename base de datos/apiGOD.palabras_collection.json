@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018518"
+  },
+  "palabras": "abeto"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018519"
+  },
+  "palabras": "actor"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601851a"
+  },
+  "palabras": "bicho"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601851c"
+  },
+  "palabras": "bueno"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601851d"
+  },
+  "palabras": "busca"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601851e"
+  },
+  "palabras": "cabra"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601851f"
+  },
+  "palabras": "daños"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018520"
+  },
+  "palabras": "dejar"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018522"
+  },
+  "palabras": "dotes"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018523"
+  },
+  "palabras": "dunas"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018524"
+  },
+  "palabras": "edito"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018525"
+  },
+  "palabras": "elevo"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018527"
+  },
+  "palabras": "emulo"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018528"
+  },
+  "palabras": "enoje"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018529"
+  },
+  "palabras": "todos"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601852a"
+  },
+  "palabras": "tomar"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab0601852c"
+  },
+  "palabras": "tonos"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018534"
+  },
+  "palabras": "yugos"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018535"
+  },
+  "palabras": "zonas"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018536"
+  },
+  "palabras": "zorro"
+},
+{
+  "_id": {
+    "$oid": "664bbde2bab425ab06018537"
+  },
+  "palabras": "zurdo"
+}]

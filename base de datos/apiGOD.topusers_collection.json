@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6652504adf18645d4b046e53"
+  },
+  "nombre": "ju1",
+  "tiempo": 6,
+  "nivel": "Dificil",
+  "palabra": "bicho",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T20:55:38.086Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T20:55:38.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66525078df18645d4b046e54"
+  },
+  "nombre": "ju2",
+  "tiempo": 19,
+  "nivel": "Dificil",
+  "palabra": "dunas",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T20:56:24.152Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T20:56:24.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6652509adf18645d4b046e55"
+  },
+  "nombre": "ju3",
+  "tiempo": 21,
+  "nivel": "Dificil",
+  "palabra": "edito",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T20:56:58.866Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T20:56:58.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665250a8df18645d4b046e56"
+  },
+  "nombre": "ju4",
+  "tiempo": 5,
+  "nivel": "Dificil",
+  "palabra": "enoje",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T20:57:12.854Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T20:57:12.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665250bedf18645d4b046e57"
+  },
+  "nombre": "ju5",
+  "tiempo": 7,
+  "nivel": "Normal",
+  "palabra": "tomar",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T20:57:34.858Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T20:57:34.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665251c1df18645d4b046e58"
+  },
+  "nombre": "mondongodb",
+  "tiempo": 7,
+  "nivel": "Normal",
+  "palabra": "cabra",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-05-25T21:01:53.298Z"
+  },
+  "created_at": {
+    "$date": "2024-05-25T21:01:53.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665d238b711fd93337054a22"
+  },
+  "nombre": "lllasasd",
+  "tiempo": 6,
+  "nivel": "Dificil",
+  "palabra": "dunas",
+  "foto": "foto.png",
+  "updated_at": {
+    "$date": "2024-06-03T01:59:38.719Z"
+  },
+  "created_at": {
+    "$date": "2024-06-03T01:59:38.719Z"
+  }
+}]
